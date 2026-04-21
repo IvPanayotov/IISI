@@ -11,7 +11,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 
 # Download dataset
 # path = kagglehub.dataset_download("rohanrao/formula-1-world-championship-1950-2020")
-path = r'C:\Users\ipanayo1\Desktop\Personal documents\МАГИСТЪР\Семестър 2\ИИСИ\formula-1-world-championship-1950-2020'
+path = r'C:\Users\ipanayo1\Desktop\Personal documents\МАГИСТЪР\Семестър 2\IISI\formula-1-world-championship-1950-2020'
 print("Path to dataset files:", path)
 
 # --------------------------------------------------------------------------------------------
